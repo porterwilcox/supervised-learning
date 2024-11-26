@@ -17,6 +17,9 @@ The primary goal of this project is to:
 3. Compare model performance using appropriate metrics and visualizations.
 4. Summarize findings and discuss the challenges and insights gained during the project.
 
+## Video Presentation
+Find the video on YouTube at [Intro to ML | Supervised Learning Final Video Presentation](https://youtu.be/H4mmvlXyvjg)
+
 ## Installation
 
 To set up the project environment, follow these steps:
