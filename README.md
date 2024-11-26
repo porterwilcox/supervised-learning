@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is my final project for CU Boulder's CSCA 5622: Supervised Learning course. I demonstrate the application of supervised learning techniques for classification tasks. The project is structured around Jupyter Notebooks for exploratory data analysis, model development, and evaluation.
+This repository is my final project for CU Boulder's CSCA 5622: Supervised Learning course. I demonstrate the application of supervised learning techniques for classification tasks and practice exploratory data analysis, model development, and evaluation.
 
 ## Dataset
 
@@ -41,7 +41,7 @@ To set up the project environment, follow these steps:
 
 ## How to Run
 
-1. Open Jupyter Lab or Jupyter Notebook:
+1. Open Jupyter Lab:
    ```bash
    jupyter lab
    ```
